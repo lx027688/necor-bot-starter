@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.necor.bot.config.BotConfiguration
+com.necor.mos.config.MosConfiguration
